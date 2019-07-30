@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700&display=swap');
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* background: #a8c0ff;
+  background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);
+  background: linear-gradient(to right, #3f2b96, #a8c0ff); */
+
+  /* background: #0f0c29; 
+  background: -webkit-linear-gradient(
+    to right,
+    #24243e,
+    #302b63,
+    #0f0c29
+  ); 
+  background: linear-gradient(
+    to right,
+    #24243e,
+    #302b63,
+    #0f0c29
+  );  */
+}
+
+.input {
+  color: #171718;
+  font-size: 16px;
+  min-height: 38px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid rgb(179, 179, 179);
+  width: 100%;
+  outline: 0;
+  transition: border-color 200ms ease-in-out;
+  margin-bottom: 30px;
+}
+
+.input:focus {
+  border-width: 2px;
+  border-color: rgb(38, 132, 255);
+}
+
+.movieGrid {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  justify-content: center;
+  grid-gap: 16px;
+}
+
+.movieCard {
+  border-radius: 4px;
+  /* background-color: #a8c0ff; */
+  overflow: hidden;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.movieCard .content {
+  padding: 8px;
+}
+
+.movieCard img {
+  display: block;
+  max-width: 100%;
+}
+
+.movieCard .title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px 0 0 0;
+  /* font-family: "Dancing Script", cursive; */
+}
+
+.movieCard .descr {
+  margin-bottom: 0;
+  line-height: 1.5;
+  padding: 0 10px 10px;
+  /* font-family: "Raleway", sans-serif; */
+}
