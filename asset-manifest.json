@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-movies/static/css/main.b750f112.chunk.css",
-    "main.js": "/goit-react-hw-02-movies/static/js/main.e6c80d39.chunk.js",
-    "main.js.map": "/goit-react-hw-02-movies/static/js/main.e6c80d39.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-02-movies/static/js/runtime~main.4f93631a.js",
-    "runtime~main.js.map": "/goit-react-hw-02-movies/static/js/runtime~main.4f93631a.js.map",
-    "static/js/2.8fa3d35f.chunk.js": "/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js",
-    "static/js/2.8fa3d35f.chunk.js.map": "/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js.map",
-    "index.html": "/goit-react-hw-02-movies/index.html",
-    "precache-manifest.aa8eb4b52e95e64dfd5699b1d54b9c4d.js": "/goit-react-hw-02-movies/precache-manifest.aa8eb4b52e95e64dfd5699b1d54b9c4d.js",
-    "service-worker.js": "/goit-react-hw-02-movies/service-worker.js",
-    "static/css/main.b750f112.chunk.css.map": "/goit-react-hw-02-movies/static/css/main.b750f112.chunk.css.map"
+    "main.css": "/goit-react-hw-02-movies/./static/css/main.b750f112.chunk.css",
+    "main.js": "/goit-react-hw-02-movies/./static/js/main.e6c80d39.chunk.js",
+    "main.js.map": "/goit-react-hw-02-movies/./static/js/main.e6c80d39.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-02-movies/./static/js/runtime~main.c3990eb3.js",
+    "runtime~main.js.map": "/goit-react-hw-02-movies/./static/js/runtime~main.c3990eb3.js.map",
+    "static/js/2.8fa3d35f.chunk.js": "/goit-react-hw-02-movies/./static/js/2.8fa3d35f.chunk.js",
+    "static/js/2.8fa3d35f.chunk.js.map": "/goit-react-hw-02-movies/./static/js/2.8fa3d35f.chunk.js.map",
+    "index.html": "/goit-react-hw-02-movies/./index.html",
+    "precache-manifest.1047b0e7def6b8f45075f3ce6e455b3b.js": "/goit-react-hw-02-movies/./precache-manifest.1047b0e7def6b8f45075f3ce6e455b3b.js",
+    "service-worker.js": "/goit-react-hw-02-movies/./service-worker.js",
+    "static/css/main.b750f112.chunk.css.map": "/goit-react-hw-02-movies/./static/css/main.b750f112.chunk.css.map"
   }
 }
